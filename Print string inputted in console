@@ -1,0 +1,26 @@
+
+/*
+ *  Author: Techyrick.com
+ */
+
+#include<stdio.h> 
+//#include 
+
+void main() {
+
+char ch;
+
+//clrscr();
+
+printf("Enter a String : ");
+
+while( (ch=getchar( )) !='\n')  {
+
+  putchar(ch);
+
+}
+
+//getch();  
+   
+}
+
